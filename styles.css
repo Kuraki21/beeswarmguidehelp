@@ -4,3 +4,10 @@ html {
     width: 100%;
     align-self: center;
 }
+
+body {
+    background-image: url("Images/background.png");
+    background-position: center;
+    background-repeat: 0;
+    background-size: cover;
+}
