@@ -3,10 +3,3 @@ html {
     height: 99%;
     width: 99%;
 }
-
-body {
-    background-image: url("../Images/background.png");
-    background-position: center;
-    background-repeat: 0;
-    background-size: cover;
-}
